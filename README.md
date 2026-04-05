@@ -17,7 +17,7 @@
 Fullstack Developer. I build tools that integrate AI into real development workflows — from autonomous code orchestrators to visual dashboards for coding agents.
 
 <a href="https://github.com/fedevgonzalez">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=fedevgonzalez&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="48%" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-stats-three-roan-43.vercel.app/api?username=fedevgonzalez&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="48%" alt="GitHub Stats" />
 </a>
 
 ## 💼 Experience
@@ -60,16 +60,16 @@ Fullstack Developer. I build tools that integrate AI into real development workf
 ## 🌟 Open Source Projects
 
 <a href="https://github.com/fedevgonzalez/pixel-office">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fedevgonzalez&repo=pixel-office&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="49%" />
+  <img src="https://github-readme-stats-three-roan-43.vercel.app/api/pin/?username=fedevgonzalez&repo=pixel-office&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="49%" />
 </a>
 <a href="https://github.com/fedevgonzalez/code-orchestrator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fedevgonzalez&repo=code-orchestrator&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="49%" />
+  <img src="https://github-readme-stats-three-roan-43.vercel.app/api/pin/?username=fedevgonzalez&repo=code-orchestrator&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="49%" />
 </a>
 <a href="https://github.com/fedevgonzalez/youtube-to-w2g">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fedevgonzalez&repo=youtube-to-w2g&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="49%" />
+  <img src="https://github-readme-stats-three-roan-43.vercel.app/api/pin/?username=fedevgonzalez&repo=youtube-to-w2g&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="49%" />
 </a>
 <a href="https://github.com/fedevgonzalez/pixel-office-layouts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fedevgonzalez&repo=pixel-office-layouts&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="49%" />
+  <img src="https://github-readme-stats-three-roan-43.vercel.app/api/pin/?username=fedevgonzalez&repo=pixel-office-layouts&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc&icon_color=70C8FF" width="49%" />
 </a>
 
 <details>
@@ -100,7 +100,7 @@ Chrome extension that sends YouTube videos to your Watch2Gether room with a sing
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedevgonzalez&layout=compact&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-three-roan-43.vercel.app/api/top-langs/?username=fedevgonzalez&layout=compact&hide_border=true&bg_color=1a1b27&title_color=70C8FF&text_color=c9cacc" width="48%" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedevgonzalez&hide_border=true&background=1a1b27&ring=70C8FF&fire=70C8FF&currStreakLabel=70C8FF&sideLabels=c9cacc&currStreakNum=c9cacc&sideNums=c9cacc&dates=c9cacc" width="48%" alt="GitHub Streak" />
 </p>
 
