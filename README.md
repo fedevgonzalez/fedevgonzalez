@@ -107,9 +107,9 @@ Chrome extension that sends YouTube videos to your Watch2Gether room with a sing
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#79](https://github.com/NextSpark-js/nextspark/issues/79) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
-2. ❗ Opened issue [#78](https://github.com/NextSpark-js/nextspark/issues/78) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
-3. ℹ️ Unlabeled issue [#29](https://github.com/fedevgonzalez/pixel-office-community/issues/29) in [fedevgonzalez/pixel-office-community](https://github.com/fedevgonzalez/pixel-office-community)
+1. ❗ Opened issue [#80](https://github.com/NextSpark-js/nextspark/issues/80) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
+2. ❗ Opened issue [#79](https://github.com/NextSpark-js/nextspark/issues/79) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
+3. ❗ Opened issue [#78](https://github.com/NextSpark-js/nextspark/issues/78) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
 4. ❌ Closed PR [#30](https://github.com/fedevgonzalez/pixel-office-community/pull/30) in [fedevgonzalez/pixel-office-community](https://github.com/fedevgonzalez/pixel-office-community)
 5. ℹ️ Labeled issue [#29](https://github.com/fedevgonzalez/pixel-office-community/issues/29) in [fedevgonzalez/pixel-office-community](https://github.com/fedevgonzalez/pixel-office-community)
 <!--END_SECTION:activity-->
