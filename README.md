@@ -107,11 +107,11 @@ Chrome extension that sends YouTube videos to your Watch2Gether room with a sing
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2](https://github.com/fedevgonzalez/youtube-to-w2g/issues/2) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
-2. ℹ️ Labeled issue [#7](https://github.com/fedevgonzalez/youtube-to-w2g/issues/7) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
-3. ℹ️ Labeled issue [#7](https://github.com/fedevgonzalez/youtube-to-w2g/issues/7) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
-4. ❗ Opened issue [#7](https://github.com/fedevgonzalez/youtube-to-w2g/issues/7) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
-5. ℹ️ Labeled issue [#6](https://github.com/fedevgonzalez/youtube-to-w2g/issues/6) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
+1. 🎉 Merged PR [#8](https://github.com/fedevgonzalez/youtube-to-w2g/pull/8) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
+2. 🔒 Closed issue [#2](https://github.com/fedevgonzalez/youtube-to-w2g/issues/2) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
+3. 🗣 Commented on [#2](https://github.com/fedevgonzalez/youtube-to-w2g/issues/2#issuecomment-5471559326) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
+4. 💪 Opened PR [#8](https://github.com/fedevgonzalez/youtube-to-w2g/pull/8) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
+5. ℹ️ Labeled issue [#2](https://github.com/fedevgonzalez/youtube-to-w2g/issues/2) in [fedevgonzalez/youtube-to-w2g](https://github.com/fedevgonzalez/youtube-to-w2g)
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect!
