@@ -107,11 +107,11 @@ Chrome extension that sends YouTube videos to your Watch2Gether room with a sing
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#397](https://github.com/NextSpark-js/nextspark/issues/397) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
-2. 🗣 Commented on [#397](https://github.com/NextSpark-js/nextspark/issues/397#issuecomment-6647925251) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
-3. 🗣 Commented on [#389](https://github.com/NextSpark-js/nextspark/issues/389#issuecomment-6647130998) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
-4. 🔒 Closed issue [#389](https://github.com/NextSpark-js/nextspark/issues/389) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
-5. 🗣 Commented on [#395](https://github.com/NextSpark-js/nextspark/issues/395#issuecomment-6646492008) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
+1. 🗣 Commented on [#398](https://github.com/NextSpark-js/nextspark/issues/398#issuecomment-6660645862) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
+2. 🔒 Closed issue [#398](https://github.com/NextSpark-js/nextspark/issues/398) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
+3. ❗ Opened issue [#402](https://github.com/NextSpark-js/nextspark/issues/402) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
+4. ❗ Opened issue [#401](https://github.com/NextSpark-js/nextspark/issues/401) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
+5. ❗ Opened issue [#400](https://github.com/NextSpark-js/nextspark/issues/400) in [NextSpark-js/nextspark](https://github.com/NextSpark-js/nextspark)
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect!
